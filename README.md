@@ -35,7 +35,8 @@ This project helped in learning important concepts such as REST API integration,
 * org.json Library
 
 Output Screenshots:
+<img width="786" height="506" alt="Image" src="https://github.com/user-attachments/assets/35e6c33d-812e-4d53-a449-6e9b57347be0" />
 
-
+<img width="803" height="479" alt="Image" src="https://github.com/user-attachments/assets/c6ece221-f47b-40b6-94ed-6f3560b702ad" />
 
 This project successfully meets the requirements of the internship task by creating a Java application that consumes a public REST API and displays parsed JSON data in a structured format.
